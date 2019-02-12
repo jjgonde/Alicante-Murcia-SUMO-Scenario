@@ -1,0 +1,4 @@
+<routes> 
+<vType id="ligero" sigma="0.1" speedFactor="1" speedDev="0.1" /> 
+<vType id="pesado" vClass="trailer" sigma="0.1" speedFactor="1" speedDev="0.1" /> 
+</routes> 

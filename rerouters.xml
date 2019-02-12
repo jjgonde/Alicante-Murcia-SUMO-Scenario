@@ -1,0 +1,39 @@
+<additional>
+
+   <rerouter id="30" edges="449451988#1.564.3022">
+       <interval begin="0" end="43800">
+
+          <closingReroute id="34919801.0"/>
+       </interval>
+   </rerouter>
+
+   <rerouter id="523" edges="238306266.0">
+       <interval begin="0" end="43800">
+
+          <closingReroute id="238306272#0.33"/>
+       </interval>
+   </rerouter>
+
+   <rerouter id="559" edges="27146231#2.0">
+       <interval begin="0" end="43800">
+
+          <closingReroute id="62830645#1.275.0.48.0"/>
+       </interval>
+   </rerouter>
+
+   <rerouter id="567" edges="56250003#0">
+       <interval begin="0" end="43800">
+
+          <closingReroute id="56250003#1.0.103.0"/>
+       </interval>
+   </rerouter>
+
+   <rerouter id="578" edges="43734938#1.1110">
+       <interval begin="0" end="43800">
+
+          <closingReroute id="136460611#0.69"/>
+       </interval>
+   </rerouter>
+
+
+</additional>
